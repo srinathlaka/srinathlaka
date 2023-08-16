@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href = "https://www.linkedin.com/in/sai-kumar-konidena-engineer/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/srinath-laka/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
 
 ## Introduction
