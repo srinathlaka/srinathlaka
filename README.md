@@ -1,9 +1,9 @@
 <a href="#"><img width="100%" height="auto" src="https://img.freepik.com/premium-vector/man-working-laptop_676179-49.jpg" height="150px"/></a>
 
-<h1 align="center">Hi 👋, I'm Sai Kumar Konidena</h1><p align="left">
+<h1 align="center">Hi 👋, I'm Srinath Laka</h1><p align="left">
 <h3 align="center">A passionate Data Science enthusiastic from India, currently living in Germany.</h3>
 
-- 📫 How to reach me **saikumar.konidena@gmail.com**
+- 📫 How to reach me **srinathlaka1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
