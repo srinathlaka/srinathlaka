@@ -32,7 +32,7 @@ I am currently pursuing my Master's degree in Scientific Instrumentation, which 
   <li>Chi-square Testing</li>
   <li>Statistical Modeling (Linear Regression, Polynomial Regression, Ridge and Lasso Regression, Logistic Regression)</li>
   <li>Machine Learning (KNN, Random Forest, XGBoost, Support Vector Machines, Naive Bayes, Principal Component Analysis, Clustering, Recommendation Systems)</li>
-  <li>Deep Learning (Pytorch, Neural Network-CNN, RNN, LSTM)</li>
+  <li>Deep Learning (TensorFlow, Neural Network-CNN, RNN, LSTM)</li>
   <li>Natural Language Processing</li>
 </ul>
 
