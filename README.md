@@ -19,6 +19,7 @@ I am currently pursuing my Master's degree in Scientific Instrumentation, which 
 <h2>Programming & Data Visualization:</h2>
 <ul>
   <li>Python (Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn, Plotly, NLTK, SciPy, PyTorch)</li>
+  <li>SQL</li>
   <li>Excel</li>
   <li>Tableau</li>
   <li>Streamlit</li>
