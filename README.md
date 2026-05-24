@@ -1,59 +1,166 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="150px"/></a>
+<h1 align="center">Hi, I'm Srinath Laka 👋</h1>
 
-<h1 align="center">Hi 👋, I'm Srinath Laka</h1><p align="left">
-<h3 align="center">A passionate Data Science enthusiastic from India, currently living in Germany.</h3>
+<h3 align="center">
+Python Developer | Scientific Instrumentation | Automation & Data Analysis
+</h3>
 
-- 📫 How to reach me **srinathlaka1@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href = "https://www.linkedin.com/in/srinath-laka/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<p align="center">
+  <a href="mailto:srinathlaka1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-srinathlaka1%40gmail.com-red?style=flat-square&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/srinath-laka/">
+    <img src="https://img.shields.io/badge/LinkedIn-Srinath%20Laka-blue?style=flat-square&logo=linkedin">
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=flat-square&logo=github">
+  </a>
 </p>
 
-## Introduction
+---
 
-I am currently pursuing my Master's degree in Scientific Instrumentation, which has been instrumental in building a strong foundation and innate understanding of machine learning techniques and statistical analysis. Alongside my studies, I have also obtained a professional certification in Data Science, showcasing my keen passion for Machine Learning and Data Analysis. Through engaging in various projects and experiences during my academic journey, I have continuously honed not only my technical skills but also my proficiency in conveying complex concepts in an understandable manner. Leveraging my scientific background, I am cultivating expertise that will empower me to make well-informed strategic decisions in the field.
-<br />
-<br />
-## Skills
-<h2>Programming & Data Visualization:</h2>
-<ul>
-  <li>Python (Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn, Plotly, NLTK, SciPy, PyTorch)</li>
-  <li>SQL</li>
-  <li>Excel</li>
-  <li>Tableau</li>
-  <li>Streamlit</li>
-</ul>
+## About Me
 
-<h2>Statistical Techniques & ML:</h2>
-<ul>
-  <li>Hypothesis Testing</li>
-  <li>A/B Testing</li>
-  <li>ANOVA</li>
-  <li>Chi-square Testing</li>
-  <li>Statistical Modeling (Linear Regression, Polynomial Regression, Ridge and Lasso Regression, Logistic Regression)</li>
-  <li>Machine Learning (KNN, Random Forest, XGBoost, Support Vector Machines, Naive Bayes, Principal Component Analysis, Clustering, Recommendation Systems)</li>
-  <li>Deep Learning (TensorFlow, Neural Network-CNN, RNN, LSTM)</li>
-  <li>Natural Language Processing</li>
-</ul>
+I am a Master's student in **Scientific Instrumentation** based in Germany, with practical experience in **Python-based data analysis, automation, machine learning, and technical software development**.
 
-<h2>Other Technical Skills:</h2>
-<ul>
-  <li>SQL</li>
-  <li>MongoDB</li>
-  <li>Docker</li>
-  <li>Web Scraping</li>
-  <li>OOP (Object-oriented Programming)</li>
-  <li>API Call</li>
-  <li>Git</li>
-  <li>GitHub</li>
-</ul>
+My work focuses on building practical tools for scientific and engineering applications, including **data analysis pipelines, interactive dashboards, simulation tools, and automation workflows**. I enjoy combining engineering thinking with software development to create reliable and user-friendly solutions.
 
-<p align="left">
+I have worked on projects involving **biological data analysis, bacterial growth modeling, scientific visualization, Streamlit applications, Flask APIs, Docker-based deployment, and automation-oriented software tools**.
+
+---
+
+## Technical Skills
+
+### Programming & Data Analysis
+- Python
+- SQL
+- MATLAB
+- C++
+
+### Python Libraries & Tools
+- Pandas
+- NumPy
+- SciPy
+- Scikit-learn
+- Matplotlib
+- Plotly
+- OpenCV
+
+### Web Apps & APIs
+- Streamlit
+- Flask
+- FastAPI
+- REST APIs
+
+### Databases & Data Handling
+- SQLite
+- MySQL
+- MongoDB
+- Excel-based data processing
+
+### DevOps & Tools
+- Git
+- GitHub
+- Docker
+- VS Code
+- PyCharm
+
+### Engineering & Scientific Computing
+- Scientific Instrumentation
+- Measurement Data Analysis
+- Model Fitting
+- Simulation
+- Automation Workflows
+
+---
+
+## Featured Projects
+
+### Bacterial Growth Analyzer  
+A Python and Streamlit-based application for analyzing optical density data in biological research.
+
+**Key features:**
+- Automated OD data processing
+- Background correction workflows
+- Model fitting for bacterial growth phases
+- Interactive visualization using Streamlit and Plotly
+- Exportable analysis results for research documentation
+
+**Tech stack:** Python, Streamlit, Pandas, SciPy, Plotly
+
+---
+
+### Cell Division Simulation Tool  
+A Python-based visualization tool for simulating bacterial cell division behavior.
+
+**Key features:**
+- 3D visualization of bacterial division stages
+- Interactive controls for division direction and stages
+- Scientific visualization for biological modeling
+- Developed for research-oriented simulation work
+
+**Tech stack:** Python, Tkinter, Matplotlib, NumPy
+
+---
+
+### Review Scraping API  
+A Flask-based API for scraping and serving product review data.
+
+**Key features:**
+- Web scraping using BeautifulSoup
+- API endpoints for structured review access
+- Docker-based deployment workflow
+- Practical backend development experience
+
+**Tech stack:** Python, Flask, BeautifulSoup, Docker, AWS
+
+---
+
+### Job Application Tracker  
+A local web application for tracking job applications and managing application status.
+
+**Key features:**
+- REST API backend
+- SQLite database integration
+- Streamlit frontend dashboard
+- CRUD functionality for application tracking
+- Filter options by company, role, and status
+
+**Tech stack:** Python, FastAPI, SQLite, Streamlit
+
+---
+
+## Currently Learning
+
+- FastAPI for backend development
+- LLM-based workflow automation
+- AI agents for technical productivity tools
+- Advanced Python project structuring
+- German language for professional communication
+
+---
+
+## Certifications
+
+- Machine Learning Specialization – Stanford University / Coursera
+- SQL Essentials – IBM / edX
+- Python for Machine Learning – Udemy
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" alt="Top Languages" />
+</p>
 
-<p><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=konidenasaikumar&show_icons=true&locale=en&layout=compact" alt="konidenasaikumar" /></p>
+---
 
+## Contact
+
+📍 Germany  
+📧 **srinathlaka1@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/srinath-laka/)  
