@@ -12,7 +12,7 @@ Python Developer | AI Automation | REST APIs | Data Analysis
     <img src="https://img.shields.io/badge/LinkedIn-Srinath%20Laka-blue?style=flat-square&logo=linkedin">
   </a>
   <a href="https://github.com/srinathlaka">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=flat-square&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-srinathlaka-black?style=flat-square&logo=github">
   </a>
 </p>
 
@@ -20,154 +20,146 @@ Python Developer | AI Automation | REST APIs | Data Analysis
 
 ## About Me
 
-I am a Python Developer with an engineering background in **Scientific Instrumentation** and practical experience in building **REST APIs, automation workflows, data analysis pipelines, AI-assisted tools, and interactive dashboards**.
+I am a **Python Developer with an engineering background** in Scientific Instrumentation, focused on building practical software tools for data analysis, automation, APIs, and AI-assisted workflows.
 
-My work focuses on creating practical software solutions for technical and data-driven problems. I enjoy building tools that reduce manual work, structure data, improve analysis workflows, and make results easier to understand.
+My work combines **Python development, REST APIs, Streamlit dashboards, data processing, image analysis, and LLM-based automation**. I enjoy building tools that solve real problems, reduce manual work, and make technical workflows easier to use.
 
-I have worked on projects involving **FastAPI, Flask, Streamlit, SQL, SQLite, SQLAlchemy, Pydantic, Pandas, OpenCV, machine learning, LLM fine-tuning, local AI tools, and CI/CD log analysis**.
+Currently, I am working on projects around **AI automation, FastAPI backends, local LLM tools, CI/CD log analysis, and scientific data processing**.
 
 ---
 
-## Technical Skills
+## Core Skills
 
-### Programming
+### Programming & Backend
 - Python
 - SQL
-- MATLAB
-- C++
-
-### Backend & APIs
 - FastAPI
 - Flask
 - REST APIs
 - SQLAlchemy
 - Pydantic
-- SQLite
 
 ### Data Analysis & Machine Learning
 - Pandas
 - NumPy
-- SciPy
 - Scikit-learn
 - TensorFlow
 - OpenCV
+- SciPy
 
 ### AI & Automation
 - LLM-based tools
+- Local AI workflows with Ollama
 - LoRA fine-tuning
-- Ollama
-- Local AI workflows
-- Log analysis automation
+- Prompt-based automation
+- CI/CD log analysis
 - Root-cause recommendation tools
 
-### Visualization & Dashboards
+### Dashboards & Visualization
 - Streamlit
 - Plotly
 - Matplotlib
 - Interactive dashboards
 - Report generation
 
-### DevOps & Tools
+### Tools & Deployment
 - Git
 - GitHub
 - Docker
 - GitHub Actions
+- Conda
 - VS Code
 - PyCharm
-- Conda
-
-### Engineering & Scientific Computing
-- Scientific Instrumentation
-- Measurement data analysis
-- Image processing
-- Model fitting
-- Technical software development
-- Automation workflows
 
 ---
 
 ## Featured Projects
 
-### Local AI Agent for CI/CD Log Analysis  
-A local AI-assisted troubleshooting tool for analyzing CI/CD logs and generating root-cause recommendations.
+### Local AI Agent for CI/CD Log Analysis
 
-**Key features:**
-- Parses CI/CD logs and detects common pipeline failures
-- Classifies errors into multiple categories
+A local AI-assisted troubleshooting tool that analyzes CI/CD logs and generates root-cause recommendations.
+
+**What it does:**
+- Parses CI/CD pipeline logs
+- Detects and classifies common failure types
 - Generates severity and confidence scores
 - Uses a local LLM through Ollama for troubleshooting explanations
-- Provides Streamlit UI with file upload, manual input, analysis history, and report export
-- Includes sample CI/CD logs and GitHub Actions syntax checks
+- Provides a Streamlit interface with file upload, manual input, history, and report export
+- Includes sample logs and GitHub Actions syntax checks
 
-**Tech stack:** Python, Streamlit, Pandas, Requests, Ollama, qwen2.5, GitHub Actions, Conda
+**Tech stack:** Python, Streamlit, Pandas, Requests, Ollama, qwen2.5, GitHub Actions
 
 ---
 
-### Job Application Tracker API  
-A REST API and dashboard application for tracking job applications, statuses, and uploaded documents.
+### Job Application Tracker API
 
-**Key features:**
-- REST API backend with CRUD operations
-- SQLite database integration with SQLAlchemy
-- Request and response validation using Pydantic
-- Document upload support for CVs, cover letters, and certificates
-- Streamlit dashboard for managing applications through a simple UI
-- Filtering by company, role, and status
+A REST API and dashboard for managing job applications, statuses, and uploaded documents.
+
+**What it does:**
+- Provides CRUD operations through a FastAPI backend
+- Stores application data using SQLite and SQLAlchemy
+- Uses Pydantic for request and response validation
+- Supports document uploads for CVs, cover letters, and certificates
+- Includes a Streamlit dashboard for simple user interaction
 
 **Tech stack:** Python, FastAPI, SQLite, SQLAlchemy, Pydantic, Streamlit
 
 ---
 
-### AI Fitness & Support Assistant  
-An LLM-based assistant built using TinyLlama fine-tuning with LoRA.
+### AI Fitness & Support Assistant
 
-**Key features:**
-- Fine-tuned TinyLlama on a custom fitness/support dataset
-- Built a Streamlit chat interface for real-time inference
-- Used PEFT and LoRA for parameter-efficient fine-tuning
-- Created a complete training pipeline using Transformers and Datasets
-- Structured the project with README and deployment-ready workflow
+An LLM-based assistant built with TinyLlama fine-tuning using LoRA.
 
-**Tech stack:** Python, TinyLlama, LoRA, Transformers, Datasets, PEFT, Streamlit
+**What it does:**
+- Fine-tunes TinyLlama on a custom support dataset
+- Uses LoRA for parameter-efficient training
+- Provides a Streamlit chat interface for inference
+- Includes a complete training pipeline using Transformers, Datasets, and PEFT
+
+**Tech stack:** Python, TinyLlama, LoRA, Transformers, PEFT, Streamlit
 
 ---
 
-### Bacterial Growth Analyzer  
-A Python and Streamlit-based tool for analyzing optical density data in biological research.
+### Bacterial Growth Analyzer
 
-**Key features:**
-- Automated OD data processing
-- Background correction workflows
-- Model fitting for bacterial growth phases
-- Interactive visualization using Streamlit and Plotly
-- Exportable results for research documentation
+A Python and Streamlit tool for analyzing optical density data in biological research.
+
+**What it does:**
+- Processes OD data from biological experiments
+- Supports background correction workflows
+- Performs model fitting for bacterial growth phases
+- Visualizes results using Streamlit and Plotly
+- Exports analysis results for documentation
 
 **Tech stack:** Python, Streamlit, Pandas, SciPy, Plotly
 
 ---
 
-### Image Processing Pipeline for Microscopy Videos  
+### Image Processing Pipeline for Microscopy Videos
+
 A Python/OpenCV workflow for detecting and counting bacteria and amoebae in microscopy videos.
 
-**Key features:**
-- Video frame preprocessing
-- Noise filtering and contour detection
-- Object detection and counting
-- Visualization of detection results
-- Iterative improvement based on researcher feedback
+**What it does:**
+- Preprocesses microscopy video frames
+- Applies noise filtering and contour detection
+- Detects and counts biological objects
+- Visualizes detection results for validation
+- Supports iterative improvement based on researcher feedback
 
 **Tech stack:** Python, OpenCV, NumPy, Streamlit, Matplotlib
 
 ---
 
-## Currently Learning
+## What I Am Building Toward
 
-- AI agents and workflow automation
-- RAG and LLM-based application development
-- FastAPI backend project structuring
+I am currently focusing on:
+
+- AI automation tools
+- Agentic AI workflows
+- RAG and LLM-based applications
+- FastAPI backend development
 - Testing and CI/CD for Python projects
-- Production-ready Python software development
-- German language for professional communication
+- Technical software for engineering and research workflows
 
 ---
 
